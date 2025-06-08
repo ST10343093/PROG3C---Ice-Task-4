@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Game</string>
+
+    <!-- General -->
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <!-- Main Activity -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="view_leaderboard">View Leaderboard</string>
+    <string name="app_subtitle">Test your knowledge with multiple categories</string>
+
+    <!-- Login Activity -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_subtitle">Login or Register to continue</string>
+    <string name="switch_to_register">Don\'t have an account? Register</string>
+    <string name="switch_to_login">Already have an account? Login</string>
+
+    <!-- Category Selection -->
+    <string name="select_category">Select a Category</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="logout">Logout</string>
+    <string name="view_results">View My Results</string>
+
+    <!-- Quiz Activity -->
+    <string name="time_format">Time: %1$d s</string>
+    <string name="question_number">Question %1$d/%2$d</string>
+    <string name="time_up_title">Time\'s Up!</string>
+    <string name="time_up_message">You ran out of time for this question.</string>
+    <string name="continue_text">Continue</string>
+
+    <!-- Result Activity -->
+    <string name="quiz_results">Quiz Results</string>
+    <string name="your_latest_result">Your Latest Result</string>
+    <string name="score_format">Score: %1$d/%2$d</string>
+    <string name="time_spent_format">Time: %1$d min %2$d sec</string>
+    <string name="time_spent_seconds_format">Time: %1$d sec</string>
+    <string name="performance_format">Performance: %1$d%%</string>
+    <string name="previous_results">Previous Results</string>
+    <string name="play_again">Play Again</string>
+    <string name="home">Home</string>
+    <string name="date_format">Date: %1$s</string>
+
+    <!-- Categories -->
+    <string name="category_science">Science</string>
+    <string name="category_history">History</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_entertainment">Entertainment</string>
+
+    <string name="category_science_desc">Test your knowledge of scientific facts and discoveries</string>
+    <string name="category_history_desc">Challenge yourself with historical events and figures</string>
+    <string name="category_sports_desc">Sports trivia from around the world</string>
+    <string name="category_entertainment_desc">Movies, music, and pop culture questions</string>
+
+    <!-- Error Messages -->
+    <string name="error_fill_fields">Please fill all fields</string>
+    <string name="error_login_failed">Login failed: %1$s</string>
+    <string name="error_registration_failed">Registration failed: %1$s</string>
+    <string name="error_loading_user">Error loading user data</string>
+    <string name="error_loading_categories">Error loading categories: %1$s</string>
+    <string name="error_loading_questions">Error loading questions: %1$s</string>
+    <string name="error_saving_result">Error saving result: %1$s</string>
+    <string name="error_user_not_logged_in">Error: User not logged in</string>
+
+    <!-- Success Messages -->
+    <string name="registration_successful">Registration successful</string>
+</resources>

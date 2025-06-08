@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67994361575",
+    "project_id": "prog7313-ice-task-4",
+    "storage_bucket": "prog7313-ice-task-4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67994361575:android:c9e47ba5344e8479ddcc42",
+        "android_client_info": {
+          "package_name": "com.firstproject.quizgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiC9s1cGtmLzC1vXhIG04wpE7t6ovfIUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
